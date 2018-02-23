@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rombik", "Rombik\Rombik.csproj", "{842E4640-9AA6-4FE1-BFCC-7B0D0390975B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{842E4640-9AA6-4FE1-BFCC-7B0D0390975B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{842E4640-9AA6-4FE1-BFCC-7B0D0390975B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{842E4640-9AA6-4FE1-BFCC-7B0D0390975B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{842E4640-9AA6-4FE1-BFCC-7B0D0390975B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AD587E6-29EE-4017-BE81-4619458EA431}
+	EndGlobalSection
+EndGlobal
